@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\aslan\CLionProjects\Structures\ThreadsafeStructures Select CMakeLists.txt
