@@ -1,0 +1,3 @@
+C:/Users/aslan/CLionProjects/Structures/ThreadsafeQueue/cmake-build-debug/CMakeFiles/ThreadsafeQueue.dir
+C:/Users/aslan/CLionProjects/Structures/ThreadsafeQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aslan/CLionProjects/Structures/ThreadsafeQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
